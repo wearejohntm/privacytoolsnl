@@ -7,7 +7,7 @@ privacy-tools.nl. Dan kan je een issue/report insturen op: </strong><a
 href="https://github.com/wearejohntm/privacytoolsnl/issues"
 target="_blank" rel="noopener"><strong>https://github.com/wearejohntm/privacytoolsnl/issues</strong></a></p>
 <big><span style="font-weight: bold;">Het insturen van een issue</span></big><br>
-Bij het insturen van een issue ga je met volgende regels akkoord:<br>
+<br>Bij het insturen van een issue ga je met volgende regels akkoord:
 <ul>
 <li>Het is alleen toegestaan om codes en/of commentaar te geven over
 de website en het inhoud daarvan</li>
