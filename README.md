@@ -1,1 +1,2 @@
-# privacytoolsnl
+<p>PrivacyTools is open source. Voor meer informatie over de open source privacytools, ga dan naar: <a href="https://github.com/privacytools/privacytools.io" target="_blank" rel="noopener">https://github.com/privacytools/privacytools.io</a></p>
+<p>Wil je een issue insturen voor privacy-tools.nl dan kan dat hier:<br /><a href="https://github.com/wearejohntm/privacytoolsnl/issues" target="_blank" rel="noopener">https://github.com/wearejohntm/privacytoolsnl/issues</a></p>
