@@ -1,7 +1,3 @@
-<html>
-<head>
-</head>
-<body>
 <p><strong>PrivacyTools is open source. Voor meer informatie over de
 open source privacytools, ga dan naar: <a
 href="https://github.com/privacytools/privacytools.io" target="_blank"
@@ -10,7 +6,7 @@ rel="noopener">https://github.com/privacytools/privacytools.io</a></strong></p>
 privacy-tools.nl. Dan kan je een issue/report insturen op: </strong><a
 href="https://github.com/wearejohntm/privacytoolsnl/issues"
 target="_blank" rel="noopener"><strong>https://github.com/wearejohntm/privacytoolsnl/issues</strong></a></p>
-<big><span style="font-weight: bold;">Het insturen van een issue</span></big><br>
+<span style="font-weight: bold;">Het insturen van een issue</span><br>
 Bij het insturen van een issue ga je met volgende regels akkoord:
 <ul>
 <li>Het is alleen toegestaan om codes en/of commentaar te geven over
@@ -31,6 +27,3 @@ en/of website. Gebruik dan de request: <a
 href="https://github.com/wearejohntm/privacytoolsnl/pulls"
 target="_blank" rel="noopener">https://github.com/wearejohntm/privacytoolsnl/pulls</a></li>
 </ul>
-</body>
-</html>
-
